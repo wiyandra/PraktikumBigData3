@@ -1,0 +1,102 @@
+ID     Nama Umur Gender     Nilai   Matkul    Tanggal UTS        UAS
+      1Budi     24Laki-laki       85Kimia     9/8/2023      90         80
+      2Ani      21Perempuan     77.5Matematika15/8/2023     75         80
+      3Joko     20Laki-laki       90Biologi   15/8/2023     85         95
+      4Siti     21Perempuan       60Matematika9/8/2023      55         65
+      5Agus     23Laki-laki     77.5Fisika    9/8/2023      80         75
+      6Dewi     21Perempuan       85Biologi   9/8/2023      75         95
+      7Eka      21Perempuan       90Matematika15/8/2023     85         95
+      8Adi      23Laki-laki     67.5Fisika    15/8/2023     70         65
+      9Rina     22Perempuan       75Matematika15/8/2023     80         70
+     10Hadi     24Laki-laki     82.5Biologi   15/8/2023     85         80
+     11Maya     23Perempuan     83.5Fisika    15/8/2023     79         88
+     12Rudi     22Laki-laki       90Matematika9/8/2023      95         85
+     13Surya    22Laki-laki     87.5Kimia     9/8/2023      94         81
+     14Wati     20Perempuan     89.5Biologi   9/8/2023      88         91
+     15Ari      22Laki-laki     86.5Kimia     15/8/2023     88         85
+     16Lia      23Perempuan       79Matematika15/8/2023     74         84
+     17Dian     22Perempuan     76.5Fisika    9/8/2023      76         77
+     18Dodi     23Laki-laki     77.5Biologi   15/8/2023     85         70
+     19Nina     24Perempuan     86.5Fisika    9/8/2023      93         80
+     20Adit     21Laki-laki       84Kimia     9/8/2023      74         94
+     21Tia      21Perempuan       78Matematika9/8/2023      74         82
+     22Andi     20Laki-laki     87.5Biologi   9/8/2023      81         94
+     23Nia      21Perempuan       80Matematika15/8/2023     89         71
+     24Bayu     22Laki-laki     91.5Fisika    15/8/2023     90         93
+     25Indah    21Perempuan     92.5Biologi   9/8/2023      93         92
+     26Rama     21Laki-laki       80Kimia     9/8/2023      85         75
+     27Nisa     21Perempuan     83.5Fisika    15/8/2023     76         91
+     28Iwan     22Laki-laki     78.5Biologi   15/8/2023     83         74
+     29Mega     23Perempuan       86Kimia     15/8/2023     85         87
+     30Agung    20Laki-laki       90Matematika9/8/2023      89         91
+     31Ria      24Perempuan     79.5Fisika    9/8/2023      87         72
+     32Dino     24Laki-laki     85.5Kimia     15/8/2023     92         79
+     33Rini     21Perempuan     74.5Biologi   15/8/2023     73         76
+     34Yoga     21Laki-laki       85Matematika15/8/2023     95         75
+     35Evi      23Perempuan       91Kimia     15/8/2023     93         89
+     36Aji      24Laki-laki     81.5Fisika    9/8/2023      86         77
+     37Lina     20Perempuan     81.5Biologi   9/8/2023      88         75
+     38Dika     22Laki-laki     78.5Matematika9/8/2023      80         77
+     39Yuli     23Perempuan       80Kimia     15/8/2023     85         75
+     40Bagus    22Laki-laki     77.5Fisika    15/8/2023     73         82
+     41Tina     23Perempuan       87Biologi   9/8/2023      81         93
+     42Farid    24Laki-laki       80Matematika9/8/2023      81         79
+     43Rika     21Perempuan       84Fisika    9/8/2023      82         86
+     44Hafiz    22Laki-laki       83Kimia     9/8/2023      72         94
+     45Yani     22Perempuan       83Biologi   9/8/2023      95         71
+     46Fajar    20Laki-laki       84Matematika15/8/2023     78         90
+     47Ayu      24Perempuan       88Fisika    9/8/2023      84         92
+     48Rian     23Laki-laki       76Biologi   15/8/2023     72         80
+     49Tika     20Perempuan       86Kimia     15/8/2023     79         93
+     50Fandi    23Laki-laki     80.5Matematika15/8/2023     70         91
+     51Siska    21Perempuan       92Kimia     9/8/2023      94         90
+     52Rio      23Laki-laki       78Fisika    15/8/2023     82         74
+     53Sinta    24Perempuan     90.5Biologi   9/8/2023      94         87
+     54Arif     23Laki-laki     88.5Kimia     15/8/2023     83         94
+     55Rara     22Perempuan       89Matematika15/8/2023     94         84
+     56Rian     22Laki-laki     88.5Fisika    9/8/2023      94         83
+     57Tyas     20Perempuan       91Biologi   15/8/2023     87         95
+     58Ryan     22Laki-laki     83.5Kimia     15/8/2023     87         80
+     59Asih     23Perempuan     76.5Matematika9/8/2023      73         80
+     60Gito     24Laki-laki       86Fisika    15/8/2023     94         78
+     61Ayi      20Perempuan     73.5Biologi   9/8/2023      74         73
+     62Tino     24Laki-laki       81Kimia     9/8/2023      84         78
+     63Nova     22Perempuan     76.5Matematika15/8/2023     80         73
+     64Reza     21Laki-laki       80Fisika    15/8/2023     83         77
+     65Umi      22Perempuan     80.5Biologi   15/8/2023     73         88
+     66Doni     24Laki-laki     86.5Kimia     15/8/2023     79         94
+     67Lia      23Perempuan     77.5Matematika9/8/2023      82         73
+     68Dani     20Laki-laki     90.5Fisika    9/8/2023      87         94
+     69Yani     24Perempuan       85Biologi   9/8/2023      84         86
+ 70Wira    21Laki-laki   85.5Kimia     15/8/2023   85   86
+ 71Yuli    21Perempuan    75Matematika9/8/2023     71   79
+ 72Edo     23Laki-laki   81.5Fisika    9/8/2023    92   71
+ 73Tari    23Perempuan    78Kimia      15/8/2023   77   79
+ 74Andy    21Laki-laki    76Biologi    9/8/2023    82   70
+ 75Dita    24Perempuan   86.5Matematika15/8/2023   90   83
+ 76Fahmi   21Laki-laki    80Fisika     9/8/2023    88   72
+ 77Erna    20Perempuan    83Kimia      15/8/2023   83   83
+ 78Dimas   21Laki-laki    82Biologi    9/8/2023    91   73
+ 79Eka     22Perempuan    75Matematika15/8/2023    73   77
+ 80Ricky   22Laki-laki   78.5Fisika    15/8/2023   74   83
+ 81Merry   20Perempuan   85.5Kimia     15/8/2023   85   86
+ 82Rizal   20Laki-laki    81Biologi    9/8/2023    75   87
+ 83Tina    22Perempuan    87Matematika9/8/2023     81   93
+ 84Billy   22Laki-laki   81.5Fisika    15/8/2023   91   72
+ 85Eva     24Perempuan   81.5Kimia     9/8/2023    91   72
+ 86Yudi    24Laki-laki   84.5Biologi   15/8/2023   88   81
+ 87Vera    20Perempuan   85.5Matematika9/8/2023    83   88
+ 88Deka    22Laki-laki   77.5Fisika    15/8/2023   74   81
+ 89Dian    21Perempuan    72Kimia      9/8/2023    72   72
+ 90Roy     20Laki-laki   81.5Biologi   9/8/2023    72   91
+ 91Irma    20Perempuan    84Matematika15/8/2023    83   85
+ 92Wahyu   24Laki-laki   77.5Fisika    9/8/2023    78   77
+ 93Sari    23Perempuan    90Kimia      9/8/2023    87   93
+ 94Riko    20Laki-laki   84.5Matematika15/8/2023   84   85
+ 95Ela     20Perempuan    87Biologi    9/8/2023    80   94
+ 96Yanto   24Laki-laki    81Fisika     15/8/2023   76   86
+ 97Dina    22Perempuan    82Kimia      15/8/2023   92   72
+ 98Fery    22Laki-laki   80.5Matematika15/8/2023   87   74
+ 99Febi    22Perempuan    72Biologi    15/8/2023   74   70
+100Rony    20Laki-laki    94Kimia      15/8/2023   94   94
+
